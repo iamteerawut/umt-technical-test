@@ -1,0 +1,289 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "Ari",
+      "isDisabled": false
+    },
+    {
+      "id": 2,
+      "name": "Chula",
+      "isDisabled": false
+    },
+    {
+      "id": 3,
+      "name": "Rattanakosin",
+      "isDisabled": true
+    }
+  ],
+  "hopPoints": [
+    {
+      "id": 1,
+      "name": "BTS Ari Exit 1",
+      "areaId": 1,
+      "isDisabled": false
+    },
+    {
+      "id": 2,
+      "name": "33 Space Front Endtrance",
+      "areaId": 1,
+      "isDisabled": true
+    },
+    {
+      "id": 3,
+      "name": "Camping Ground",
+      "areaId": 1,
+      "isDisabled": false
+    },
+    {
+      "id": 4,
+      "name": "Samyan Mitrtown",
+      "areaId": 2,
+      "isDisabled": true
+    }
+  ],
+  "trips": [
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 2,
+      "id": 1
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 2,
+      "id": 2
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 2,
+      "id": 3
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 4
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 5
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 6
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 7
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointID": 2,
+      "id": 8
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointID": 1,
+      "id": 9
+    },
+    {
+      "pickUpPointID": 2,
+      "droppOffPointID": 4,
+      "id": 10
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 2,
+      "id": 11
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 12
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 2,
+      "id": 13
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 2,
+      "id": 14
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 4,
+      "id": 15
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 16
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 1,
+      "id": 17
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 4,
+      "id": 18
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 19
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 20
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 1,
+      "id": 21
+    },
+    {
+      "pickUpPointID": 2,
+      "droppOffPointID": 4,
+      "id": 22
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 23
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 24
+    },
+    {
+      "pickUpPointID": 2,
+      "droppOffPointID": 1,
+      "id": 25
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 26
+    },
+    {
+      "pickUpPointID": 4,
+      "droppOffPointID": 3,
+      "id": 27
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 1,
+      "id": 28
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 29
+    },
+    {
+      "pickUpPointID": 4,
+      "droppOffPointID": 3,
+      "id": 30
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 31
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 2,
+      "id": 32
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 33
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 3,
+      "id": 34
+    },
+    {
+      "pickUpPointID": 3,
+      "droppOffPointID": 2,
+      "id": 35
+    },
+    {
+      "pickUpPointID": 1,
+      "droppOffPointID": 1,
+      "id": 36
+    }
+  ],
+  "prices": [
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 2,
+      "price": 12
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 3,
+      "price": 15
+    },
+    {
+      "pickUpPointId": 1,
+      "droppOffPointId": 4,
+      "price": 17
+    },
+    {
+      "pickUpPointId": 2,
+      "droppOffPointId": 1,
+      "price": 12
+    },
+    {
+      "pickUpPointId": 2,
+      "droppOffPointId": 3,
+      "price": 14
+    },
+    {
+      "pickUpPointId": 2,
+      "droppOffPointId": 4,
+      "price": 20
+    },
+    {
+      "pickUpPointId": 3,
+      "droppOffPointId": 1,
+      "price": 15
+    },
+    {
+      "pickUpPointId": 3,
+      "droppOffPointId": 2,
+      "price": 14
+    },
+    {
+      "pickUpPointId": 3,
+      "droppOffPointId": 4,
+      "price": 12
+    },
+    {
+      "pickUpPointId": 4,
+      "droppOffPointId": 1,
+      "price": 17
+    },
+    {
+      "pickUpPointId": 4,
+      "droppOffPointId": 2,
+      "price": 20
+    },
+    {
+      "pickUpPointId": 4,
+      "droppOffPointId": 3,
+      "price": 12
+    }
+  ]
+}
